@@ -14,5 +14,5 @@ Esse projeto foi utilizado:
 - Responsive
 - SaSS
 
-
+[Site deploy] [https://le-scone-ls.netlify.app/]
 
