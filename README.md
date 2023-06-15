@@ -16,3 +16,5 @@ Esse projeto foi utilizado:
 
 [Site deploy] [https://le-scone-ls.netlify.app/]
 
+
+Feito com ♥ by [Lucas Santos](https://github.com/lucassantosdl)
